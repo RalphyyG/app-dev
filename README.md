@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-# Guirnaldo's Favorite Series
+## Guirnaldo's Favorite Series
 **Title:** [Crow Zero II](https://www.imdb.com/title/tt1232831/)
 **Genre:** *Action, Drama*
 **Story:**
